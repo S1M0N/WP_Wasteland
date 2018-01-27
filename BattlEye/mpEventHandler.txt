@@ -1,3 +1,0 @@
-// A3Wasteland  - mpEventHandler.txt BattlEye filters by AgentRev
-
-//5 "" // not needed anymore, MP event handlers are now filtered by remoteExec.txt

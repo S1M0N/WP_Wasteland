@@ -1,3 +1,0 @@
-// A3Wasteland - deleteVehicle.txt BattlEye filters by AgentRev
-
-5="C_man_1_1_F" // prevent store NPC deletion

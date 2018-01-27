@@ -1,2 +1,0 @@
-//new2
-// A3Wasteland - scripts.txt BattlEye filters by AgentRev - use sparingly, may increase lag
